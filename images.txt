@@ -5,4 +5,4 @@ ghcr.io/open-webui/open-webui:main
 --platform=linux/arm64 xiaoyaliu/alist
 
 # 模板三
-opengrok/docker
+quay.io/ascend/vllm-ascend:v0.7.3rc1
